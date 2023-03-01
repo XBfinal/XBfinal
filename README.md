@@ -19,7 +19,11 @@
 https://www.xbfinal.top/
 # CSDN
 https://blog.csdn.net/weixin_52062043?spm=1000.2115.3001.5343
+#gitee
+https://gitee.com/XBfianl
+
 <br>
-<img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+
+<h1><img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" /></h1>
 
 
