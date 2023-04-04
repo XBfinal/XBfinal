@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /> </h1>
 
-🔭我目前正在学习Java 、 go。
+🔭我目前正在学习Java 、云原生。
 
 🌱我对学习新技术和创建令人惊叹的网站感兴趣。
 
